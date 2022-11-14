@@ -1,1 +1,1 @@
-# Genetic-Greedy-Algorithm
+Genetic and Greedy Algorithm for knapsack problem
